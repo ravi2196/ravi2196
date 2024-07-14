@@ -7,7 +7,7 @@
   <a href="https://www.linkedin.com/in/ravi-shankar-450016203/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
   </a>
-  <a href="https://twitter.com/ravi21962002" target="_blank">
+  <a href="https://x.com/ravi2196_" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=d18014&style=plastic&logo=twitter&logo-color=white"/>
   </a>
   <a href="https://dev.to/ravi2196" target="_blank">
