@@ -4,7 +4,7 @@
   <a href="https://ravi2196.netlify.app" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=ff&style=plastic&logo=realm&logo-color=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/ravi21962002/" target="_blank">
+  <a href="https://www.linkedin.com/in/ravi-shankar-450016203/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
   </a>
   <a href="https://twitter.com/ravi21962002" target="_blank">
