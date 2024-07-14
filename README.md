@@ -23,7 +23,7 @@
  <img src="https://gpvc.arturio.dev/ravi2196" align="center">
  <img src="https://c.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif" align="right" height="300">
  
- <p align="left">My name is Rahul Karda and I'm a Fullstack Developer.
+ <p align="left">My name is Ravi Kumar and I'm a Developer.
   
   I'm from India, living in Bhopal and currently studying Computer Science.
   
