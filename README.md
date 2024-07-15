@@ -23,7 +23,7 @@
  <img src="https://gpvc.arturio.dev/ravi2196" align="center">
  <img src="https://c.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif" align="right" height="300">
  
- <p align="left">My name is Ravi Kumar and I'm a Developer.
+ <p align="left">My name is Ravi Shankar Kumar and I'm a Data Analyst.
   
   I'm from India, living in Bhopal and currently studying Computer Science.
   
@@ -34,17 +34,17 @@
 You can also find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 website -->
 
-🌱 I’m currently learning DevOps
+🌱 I’m currently learning GenAI
 
 👯 I’m looking to collaborate on different projects
 
 👨‍💻 All of my projects are available at [my website](https://ravi2196.me)
 
-📝 I actively post on [LinkedIn](https://linkedin.com/in/ravi2196)
+📝 I actively post on [LinkedIn](https://www.linkedin.com/in/ravi-shankar-450016203/)
 
-👀 Ask me about React, NextJS, NodeJS, and APIs
+👀 Ask me about Machine Learning, Deep Learning, 
 
-📫You can reach me at ravi21962002@gmail.com
+📫You can reach me at rshankar0901@gmail.com
 
 ⚡ Fun fact  - I like Philosophy and Astronomy
 
