@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a Machine Learning Engineer with a passion for
 
 ## 🔭 Projects I'm Working On
 - **AI Education Platform**
-  - Description: An innovative platform that offers courses for boards and various competitive exams like NTSE, KVPY, JEE (Main + Advanced), etc.
+  - Description: An innovative platform that offers courses for boards and various competitive exams 
   - Tech Stack: Python, TensorFlow, Django, React
   - Features: Adaptive learning, personalized recommendations, interactive quizzes
 
