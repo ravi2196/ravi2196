@@ -17,7 +17,6 @@ Welcome to my GitHub profile! I'm a Machine Learning Engineer with a passion for
 
 ## 🎯 Goals
 - **Short-term**
-  - Master Machine Learning and Generative AI from scratch within 2 months
   - Prepare for Tech Companies Placement
 - **Long-term**
   - Contribute to open-source AI projects
