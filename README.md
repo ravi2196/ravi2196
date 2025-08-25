@@ -9,15 +9,11 @@ Welcome to my GitHub profile! I'm a Machine Learning Engineer with a passion for
   - Features: Adaptive learning, personalized recommendations, interactive quizzes
 
 ## 🌱 Currently Learning
-- **Machine Learning**
-  - Courses: Coursera Machine Learning by Andrew Ng, Deep Learning Specialization
-  - Projects: Predictive modeling, image recognition
-- **Generative AI**
-  - Resources: Skillible
+- **Web Development**
+  - Courses: Udemy
+  - Projects: Education Platform
 
 ## 🎯 Goals
-- **Short-term**
-  - Prepare for Tech Companies Placement
 - **Long-term**
   - Contribute to open-source AI projects
   - Develop innovative solutions in education technology
