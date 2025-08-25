@@ -41,7 +41,7 @@ Welcome to my GitHub profile! I'm a Machine Learning Engineer with a passion for
   - VS Code
 
 ## 📫 Get in Touch
-- **LinkedIn**: https://www.linkedin.com/in/ravi-shankar-450016203/
+- **LinkedIn**: https://www.linkedin.com/in/ravi0901/
 - **Email**: rshankar0901@gmail.com
 - **Twitter**: https://x.com/ravi2196_
 
